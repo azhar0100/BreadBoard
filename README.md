@@ -5,6 +5,8 @@ This is a project that was made to satisfy an intellectual curiosity. In my univ
 
 ![Messy Breadboard](messywires.JPG?raw=True)
 
+**Disclaimer:** This project is not complete, and the code uploaded is also a fraction of the original code.
+
 Verilog circuit representation
 ----
 In most of our lab tasks, we are given (or else, have to prepare) a verilog representation of the circuit. This representation can be read by a python program using the pyverilog library. First, that representation is used to get a graph representation of the input circuit.
